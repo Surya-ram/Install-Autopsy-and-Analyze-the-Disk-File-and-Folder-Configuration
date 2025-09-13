@@ -1,4 +1,6 @@
 # Install Autopsy and Analyze the Disk File and Folder Configuration
+## NAME : SURYA R
+## REGISTER NO : 212222040167
 
 ## AIM
 To install **Autopsy** and use it to analyze the disk’s file and folder configuration for forensic investigation.
