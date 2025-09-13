@@ -86,30 +86,18 @@ Step1: Create a Case
 
 Step2: Add a Data Source
 • Click "Add Data Source" and choose the type:
-
 • Select the data source and let Autopsy process it.
 Step3: File Analysis
-• Application
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bde40829-5bf3-40bc-9486-fc1f283ec721" />
-
 
 • File Metadata
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0a3bb9cd-1b63-4ce4-b4e6-c6a73b1e6761" />
-
-
-• Click OS Account.
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c77c21e9-6fdc-4cd7-958a-c904cb6b23dc" />
-
-
+![WhatsApp Image 2025-09-13 at 14 11 12_4a54dc73](https://github.com/user-attachments/assets/45d3862c-286a-47da-8a31-c84118546e2f)
 
 ## OUTPUT:
 
 • Generate Report
 
-<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/12a44de1-688c-497a-a534-bff40147ee9d" />
+![WhatsApp Image 2025-09-13 at 14 11 12_5a85d733](https://github.com/user-attachments/assets/06c5d74b-58bc-4502-b65e-ab28295295f7)
 
 
 ## RESULT:
